@@ -14,7 +14,7 @@ To generate a set of 2,000 random latitudes and longitudes, and retrieve the cur
 
 To create a new DataFrame with the updated weather data.
 
-![Screen Shot 2022-02-28 at 1 48 17 PM](https://user-images.githubusercontent.com/88747464/156040973-47eb1357-d51c-41bf-a0d5-56a24f4e84aa.png)
+![Screen Shot 2022-02-28 at 1 48 17 PM](https://user-images.githubusercontent.com/88747464/156043478-062b8b8e-a852-4aa0-b23f-ab560eb28ed3.png)
 
 ### Customer Travel Destinations Map
 
