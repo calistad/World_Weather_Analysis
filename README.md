@@ -41,6 +41,3 @@ To show the route with Google Directions API.
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/88747464/156042935-3002617a-689b-4001-8b50-c7a2b9ba0137.png)
 
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/88747464/156042939-bccc307a-5fc6-4296-86de-6655e9225bc2.png)
-
-## Summary
-
