@@ -6,17 +6,17 @@ We will apply analysis, visualizations, and statistical skill to retrieve weathe
 
 ## Results
 
-### To Retrieve Weather Data
+### Weather Database
 
 To generate a set of 2,000 random latitudes and longitudes, and retrieve the current weather description for each city from the API call with the OpenWeatherMap.
 
 ![Screen Shot 2022-02-28 at 1 48 40 PM](https://user-images.githubusercontent.com/88747464/156040957-7a4910d1-3fc7-4445-8a25-12c3c9396e0e.png)
 
-Then, to create a new DataFrame containing the updated weather data.
+To create a new DataFrame with the updated weather data.
 
 ![Screen Shot 2022-02-28 at 1 48 17 PM](https://user-images.githubusercontent.com/88747464/156040973-47eb1357-d51c-41bf-a0d5-56a24f4e84aa.png)
 
-### To Create a Customer Travel Destinations Map
+### Customer Travel Destinations Map
 
 To retrieve customer weather preferences of minimum and maximum temperature criteria for their vacation.
 
@@ -28,7 +28,7 @@ To identify potential travel destinations and nearby hotels.
 
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/88747464/156041789-28927052-743d-489f-9cf2-0fb7a45aa9c1.png)
 
-### To Create a Travel Itinerary Map
+### Travel Itinerary
  
 To create a travel itinerary with four cities chosen from the customer’s possible travel destinations.
 
